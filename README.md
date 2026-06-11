@@ -24,7 +24,7 @@
 <br/>
 
 > **Scanify** is a modern, full-stack document scanning and PDF management application.  
-> Upload, scan, manage, and extract content from your documents — all in one place.
+> Upload, scan, manage, and extract content from your documents and PDFs — all in one place.
 
 <br/>
 
@@ -243,3 +243,4 @@ Made by **[Dhruvi Gajjar](https://github.com/DhruviGajjar26)**
 **Star this repo if you found it helpful! :)** 
 
 </div>
+"small change" 
